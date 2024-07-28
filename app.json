@@ -1,5 +1,5 @@
 {
-  "name": "BYTE-MD",
+  "name": "CAXTON DERICK",
   "description": "World Simplest Bot created by TalkDrove ",
   "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/logo.jpg",
   "keywords": ["BYTE-MD", "Byte", "Hamza","TalkDrove","HyHamza","HyByte"],
@@ -9,12 +9,12 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "TalkDrove",
+      "value": "CAXTON",
       "required": true
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "Byte;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWUJWK0dENTN0dHFjcHJmeVZ2K0R2UTMxTGV6WWNMczd6cHB2R1ZCZTFrMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSEo2WlNUOVlDSEQ5MERJN0tXNk9GbTlDVVlRNWV5cnRUUmNRaXZUeC93bz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI0QnRYaURPM0kxQ2pEbk1ya0pqQUNhdDFyL0JrcTEvay9MK3pkSkhiNFdvPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJpbHhDa0wvVG80aXFzaGMzMHF4YUFnbE8xdjh6NDMzSFcreUE5dFcrZ0E4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImVEVmRVcW9oQkZkVjBUbVQvR0xrNWVmWXNXTWVvZUw2Q1NUd21ibFkvbDg9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlErbEhrNUFpa0VFVWZnNmxiMUV2dE5QYlhycmR3dDlnb3hodHhZMTB6Um89In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidUdZTHlrU2w5cWx2UmlwN29uSERjUlVnRGZqNml0TVBkZStjUlRkODZHdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicWo2c29PdWpvTVhFLzZoSFEvZmV1aWFudEcrQXl0U1VTSy9KNXZNa1RoRT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InVkZktiRnVpcXRSNTl6TnRLbSttdk9GMTVPMlhRQmJBNnFMWVpicXdwRUxYbmtlT2V0ZUgrQ0tMcEV5d0djc3NNb09zd1lNNmlRV1pTdXVFdXlENGlRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTg4LCJhZHZTZWNyZXRLZXkiOiJMZ3BBL2FxK3g4OWczUDVOQjdneWZJaTUycm90alpPQTQ3SW9qbDJJU3hBPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJFOVVWczNWcFRldTI3NEFuM3Q3SmVBIiwicGhvbmVJZCI6ImEyMmY3ZWNlLTk0NGUtNGY1My1hMTIyLWVmMjdiMTM2M2NkNCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ2TG84QlR5SVArcXJ2WHVRNGtORlZZYXB2S1k9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUEYwamxiTitjMWRmUktXaEJUU01lMzFRbGtBPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjRIQTM0NldKIiwibWUiOnsiaWQiOiIyNTQ3OTgwMzM4NDQ6MzVAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ01hVjI3QUZFUHJkanJVR0dBUWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IkFvOERlTzRDN3JLMkh4L3k4WHRHWkd2eWNjaFVnU09mVGNKTHlvdFlzRDQ9IiwiYWNjb3VudFNpZ25hdHVyZSI6Inkvck9qcFpoTld0akRhVEtMSVFpbDBORk55YTZqT3RGa2JPY1BMZUJXUWY1ZXR6QjlNbGJaSnNXRnh6NGNhM2pzZXZDSThnNXBkU3VobGxxTTNrUUN3PT0iLCJkZXZpY2VTaWduYXR1cmUiOiJsVXFWaHVSVDZtblRGL0UrWjBDdmsyMDU5dTMzU2dMSlJkYmdzcnBYK2l1OVNSRHRBOWtuZDhlaEp4WnpmUCtkWE1WcnZiUmtKdVhMZlBBTkdnNHBpUT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NDc5ODAzMzg0NDozNUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJRS1BBM2p1QXU2eXRoOGY4dkY3Um1ScjhuSElWSUVqbjAzQ1M4cUxXTEErIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzIyMDAzMjA3fQ=="
     },
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
@@ -44,8 +44,8 @@
     },
     "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
@@ -64,7 +64,7 @@
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
-      "required": false,
+      "required": true,
       "value": "true"
     },
     "MSGS_IN_LOG": {
@@ -88,22 +88,22 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923072380380"
+      "value": "254798033844"
     },
 
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "public"
+      "value": "private"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "BYTE",
-      "required": false
+      "value": "derick",
+      "required": true
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "TalkDrove",
-      "required": false
+      "value": "caxton",
+      "required": true
     }
   },
   "addons": [{ "plan": "heroku-postgresql:essential-0" }],
